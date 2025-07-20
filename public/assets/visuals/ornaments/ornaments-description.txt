@@ -1,0 +1,46 @@
+Emotion Ornaments Pixel Art Specifications
+
+Style: Minimalist pixel art with a gentle, dreamy aesthetic
+Size: 20-30px square (each ornament)
+Format: PNG with transparent background
+
+Each emotion should have its own unique ornament that will be placed on the tree based on journal entries. These should be small, simple pixel art elements that visually represent different emotional states.
+
+Ornament Types:
+
+1. Joy (joy-star.png)
+   - A bright, five-pointed star or sunburst
+   - Color: Soft yellow (#f2d478)
+   - Effect: Slight glow or shimmer
+
+2. Calm (calm-leaf.png)
+   - A gentle leaf or feather shape
+   - Color: Muted teal (#7fb9b9)
+   - Effect: Subtle, peaceful
+
+3. Melancholy (melancholy-raindrop.png)
+   - A small teardrop or raindrop
+   - Color: Dusty blue (#8e9eb3)
+   - Effect: Slightly translucent
+
+4. Anxiety (anxiety-mist.png)
+   - A small cloud or wisp of mist
+   - Color: Muted lavender (#b893c0)
+   - Effect: Slightly blurred edges
+
+5. Hope (hope-bubble.png)
+   - A rising bubble or small balloon
+   - Color: Pale green (#a8c896)
+   - Effect: Slight upward float
+
+6. Wonder (wonder-sparkle.png)
+   - A sparkle or tiny galaxy swirl
+   - Color: Soft purple (#b8a0cc)
+   - Effect: Twinkle or shimmer
+
+7. Gratitude (gratitude-light.png)
+   - A small lantern or warm light
+   - Color: Warm amber (#d9a679)
+   - Effect: Gentle glow
+
+Each ornament should be simple enough to be recognizable at a small size but detailed enough to convey the associated emotion. They will be dynamically placed on the tree based on the user's journal entries.

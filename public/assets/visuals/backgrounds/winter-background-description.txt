@@ -1,0 +1,20 @@
+Winter Background Specifications
+
+This pixel art image will serve as the background for the tree screen.
+
+File Name: winter-background.png
+
+Description:
+- A winter scenery background that will appear behind the tree
+- Size: Approximately 800x600 pixels (to cover the full screen)
+- Format: PNG
+- Style: Pixel art consistent with the other visual elements
+
+Design Elements:
+- Snow-covered ground
+- Possibly some snowflakes falling
+- Subtle winter elements (snow-covered hills, etc.)
+- Soft, cool color palette
+- Not too busy - should not distract from the tree and ornaments
+
+The winter background will be displayed behind the tree on the third screen, creating a seasonal atmosphere for the ornament placement.

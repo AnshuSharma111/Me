@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Atkinson Hyperlegible', system-ui, sans-serif;
+    line-height: 1.8;
+    height: 100%;
+  }
+  
+  body {
+    @apply bg-bg-dark text-text-primary;
+    margin: 0;
+    min-height: 100vh;
+    overflow: hidden;
+    height: 100%;
+  }
+
+  #root {
+    height: 100%;
+    overflow: hidden;
+  }
+}
+
+@layer components {
+  /* Pixel art rendering */
+  .pixel-art {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+  }
+  
+  /* Transitions */
+  .gentle-transition {
+    @apply transition-all duration-700 ease-in-out;
+  }
+  
+  /* Handwritten text effect */
+  .handwritten {
+    font-family: 'Indie Flower', cursive;
+    line-height: 1.65;
+    letter-spacing: 0.02rem;
+  }
+  
+  /* App container */
+  .app-container {
+    @apply flex flex-col min-h-screen;
+    height: 100%;
+  }
+  
+  /* Emotion text colors */
+  .text-emotion-joy {
+    @apply text-yellow-300;
+  }
+  
+  .text-emotion-calm {
+    @apply text-teal-300;
+  }
+  
+  .text-emotion-melancholy {
+    @apply text-blue-300;
+  }
+  
+  .text-emotion-anxiety {
+    @apply text-purple-300;
+  }
+  
+  .text-emotion-hope {
+    @apply text-green-300;
+  }
+  
+  .text-emotion-wonder {
+    @apply text-indigo-300;
+  }
+  
+  .text-emotion-gratitude {
+    @apply text-amber-300;
+  }
+  
+  .text-emotion-anger {
+    @apply text-red-400;
+  }
+  
+  .text-emotion-queasy {
+    @apply text-emerald-300;
+  }
+}
+
+/* Animation utilities */
+@keyframes gentle-float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.animate-gentle-float {
+  animation: gentle-float 4s ease-in-out infinite;
+}
+
+/* Page transitions */
+.page-transition-enter {
+  opacity: 0;
+}
+
+.page-transition-enter-active {
+  opacity: 1;
+  transition: opacity 300ms;
+}
+
+.page-transition-exit {
+  opacity: 1;
+}
+
+.page-transition-exit-active {
+  opacity: 0;
+  transition: opacity 300ms;
+}

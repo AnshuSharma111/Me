@@ -1,0 +1,48 @@
+Audio Assets Specifications
+
+The audio for the "Me" app should create a gentle, ambient atmosphere that enhances the reflective journaling experience without being distracting.
+
+## Ambient Background Loops
+
+Create short (10-30 second) loopable ambient tracks that can play continuously in the background.
+
+1. main-loop.mp3
+   - A neutral, calming ambient background
+   - Soft synth pads or gentle piano notes
+   - Very subtle, almost imperceptible rhythm
+   - Should loop seamlessly
+
+2. Emotion-specific ambient loops (optional):
+   - calm-loop.mp3: Gentle flowing water or soft wind chimes
+   - joy-loop.mp3: Light, airy tones with subtle brightness
+   - melancholy-loop.mp3: Soft minor key progression, gentle rain
+   - anxiety-loop.mp3: Slightly tense but not uncomfortable tones
+   - hope-loop.mp3: Rising, optimistic gentle progression
+   - wonder-loop.mp3: Spacious, ethereal tones with slight sparkle
+   - gratitude-loop.mp3: Warm, resonant tones with gentle harmony
+
+## Interaction Sounds
+
+Create very short (0.5-2 second) sound effects for user interactions:
+
+1. click.mp3
+   - Soft, subtle click for button interactions
+   - Not sharp or harsh
+
+2. submit.mp3
+   - Gentle confirmation sound for submitting journal entries
+   - Slightly more prominent than regular clicks
+
+3. reflection-appear.mp3
+   - Soft reveal sound for when the poetic reflection appears
+   - Gentle rising tone or chime
+
+4. ornament-place.mp3
+   - Delicate sound for when an ornament is placed on the tree
+   - Soft chime or gentle bell
+
+Technical Specifications:
+- Format: MP3 (44.1kHz, 128-192kbps) or OGG
+- Duration: 10-30 seconds for loops, 0.5-2 seconds for interaction sounds
+- Volume: Normalized but on the quieter side (users can adjust volume)
+- Looping: Ambient tracks should loop seamlessly without audible cuts

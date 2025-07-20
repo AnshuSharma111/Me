@@ -1,0 +1,26 @@
+Tree Pixel Art Specifications
+
+Style: Minimalist pixel art with a gentle, dreamy aesthetic
+Size: 400px wide by 500px tall (approximately)
+Format: PNG with transparent background
+
+Description:
+Create a slender, stylized tree with a simple trunk and graceful branches that spread outward and upward. The tree should have enough empty space between branches to accommodate ornaments (baubles, stars, etc.) that will be added dynamically based on journal entries.
+
+Key characteristics:
+1. Trunk: Medium brown (#8B5A2B or similar), slightly tapered, occupying the bottom half of the image
+2. Branches: Same color as trunk, extending outward in a natural but somewhat stylized pattern
+3. Style: Low-detail pixel art (16x16 to 32x32 pixel resolution feel)
+4. Negative space: Plenty of room between branches for ornaments to be placed
+5. Mood: Calm, contemplative, slightly whimsical
+
+The tree should be centered in the image with enough padding around it. It should look somewhat like a display for ornaments rather than a fully detailed tree with leaves.
+
+Variations (optional):
+- base-tree.png: The standard tree as described above
+- winter-tree.png: Same structure but with a cooler color palette
+- spring-tree.png: Same structure but with a warmer color palette
+- summer-tree.png: Same structure but with a vibrant color palette
+- autumn-tree.png: Same structure but with a golden/amber color palette
+
+The tree will serve as the foundation for the visual representation of the user's emotional journey, with each journal entry adding a decorative element to the branches.

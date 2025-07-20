@@ -1,0 +1,20 @@
+Diary Image Specifications
+
+This pixel art image will be the main UI element for the journal entry screen.
+
+File Name: open-diary.png
+
+Description:
+- An open diary/journal with visible pages
+- Size: Approximately 800x500 pixels
+- Format: PNG with transparent background
+- Style: Pixel art consistent with the other visual elements
+
+Design Elements:
+- Two visible pages (left and right)
+- Lines on the pages for writing
+- A bookmark or ribbon that can serve as the "Reflect" button
+- Subtle decorative elements around the edges
+- Warm, inviting colors
+
+The diary image will be the central element of the first screen, with the text input area positioned to appear as if the user is writing directly on the diary pages.

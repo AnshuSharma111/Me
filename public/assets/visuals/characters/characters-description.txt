@@ -1,0 +1,19 @@
+Character Images Specifications
+
+These pixel art character images will represent different emotions in the reflection screen.
+Each image should show a character (like the example girl with the Santa hat) expressing a specific emotion.
+
+File Naming:
+- joy.png - Character looking happy/joyful
+- calm.png - Character looking peaceful/serene
+- melancholy.png - Character looking sad/wistful
+- anxiety.png - Character looking worried/nervous
+- hope.png - Character looking optimistic/forward-looking
+- wonder.png - Character looking amazed/curious
+- gratitude.png - Character looking thankful/appreciative
+
+Size: Approximately 200x200 pixels
+Format: PNG with transparent background
+Style: Consistent with the provided example image
+
+The character images will be displayed on the reflection screen alongside the emotion caption.
